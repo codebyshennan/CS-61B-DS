@@ -1,5 +1,5 @@
 # CS-61B-DS
-[https://people.eecs.berkeley.edu/~jrs/61b/](CS61B By Berkeley CS)
+[CS61B By Berkeley CS](https://people.eecs.berkeley.edu/~jrs/61b/)
 Taught by Prof. Jonathan Shewchuk
 
 - Fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays, strings, and hash tables. 
